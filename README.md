@@ -3,7 +3,7 @@ EmployWise Assignment
 This is a React project built using Vite for fast development and optimized performance. It includes Material-UI (MUI) for UI components and React Router for navigation. The application is hosted on Netlify at:
 
 🔗 EmployWise Assignment
-https://https://employassign.netlify.app/
+https://employassign.netlify.app/
 
 🛠️ Features
 Fast & optimized React app using Vite

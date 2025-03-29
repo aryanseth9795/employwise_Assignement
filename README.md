@@ -26,7 +26,9 @@ Linting & Code Quality: ESLint
 🚀 Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/aryanseth9795/employwise_Assignement.git
+
 cd employwise-assignment
+
 2️⃣ Install Dependencies
 
 npm install
